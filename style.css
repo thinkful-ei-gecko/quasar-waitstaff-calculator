@@ -10,3 +10,8 @@ section {
 .stats {
   border: none;
 }
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+}
